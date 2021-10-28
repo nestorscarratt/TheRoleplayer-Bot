@@ -1,0 +1,33 @@
+{
+"name": "theroleplayer-public-bot",
+"version": "2.7.3",
+"description": "TheRoleplayer is a GTAV Roleplay bot used to improve your Roleplay communitys!",
+"main": "index.js",
+"scripts": {
+  "test": "echo \"Error: no test specified\" && exit 1"
+},
+"author": "Exh0 And RxFlex.",
+"license": "MIT",
+"dependencies": {
+  "discord.js": "^12.5.3",
+  "discord.js-pagination": "^1.0.3"
+},
+"devDependencies": {},
+"repository": {
+  "type": "git",
+  "url": "git+https://github.com/Rx-Flex0/TheRoleplayer-Bot.git"
+},
+"keywords": [
+  "Roleplay",
+  "GTAV",
+  "Bot",
+  "Public",
+  "Free",
+  "Custom",
+  "Discord.JS"
+],
+"bugs": {
+  "url": "https://github.com/Rx-Flex0/TheRoleplayer-Bot/issues"
+},
+"homepage": "https://github.com/Rx-Flex0/TheRoleplayer-Bot#readme"
+}

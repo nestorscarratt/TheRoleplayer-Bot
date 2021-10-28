@@ -1,0 +1,6 @@
+{
+    "delete-me": "NAME THIS FILE TO CONFIG.JSON AND DELETE THIS FIELD",
+    "token": "your-bot-token",
+    "prefix": "/",
+    "bot-name": "Your Bots Name"
+}
